@@ -1,0 +1,129 @@
+/* Home Styles */
+*{box-sizing: border-box;}
+
+.full-width{width:100%;float:left;}
+
+.home-style {
+    background-image: url('https://www.thestatesman.com/wp-content/uploads/2019/06/DANCE-1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 45px;
+
+}
+
+.header-style{
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    padding-top: 10px;
+    font-size:50px;
+}
+
+
+/*Menu Bar*/
+
+.menu-bar{
+    text-align: center;
+    font-size: 26px; 
+    padding-top: 15px
+}
+
+.menu-item{
+    color: #ffffff;
+     padding: 10px
+}
+
+/*title*/
+.title{
+    color: white;
+    font-family: Harlow-Solid;
+    font-size: 60px;
+    text-align: center;
+    margin: 120px;
+    margin-left: 0px;
+}
+
+.paragraph-text{
+    color: white;
+    font-family: harlow-solid;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 150px;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
+/* About Us */
+.about-us-style {
+    background-image: url('https://media1.popsugar-assets.com/files/thumbor/xWl0rTDo_nO2fCnld6cyt7z1gEw/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2020/06/22/716/n/1922283/tmp_m6dsX5_64acccf186cf33c4_FTB_Unit_15857_R.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;}
+
+.about-us-title{
+    color: white;
+          text-align: center;
+          margin: 0px;
+          font-size: 60px;
+          padding-top: 150px;
+
+        }
+
+.about-us-paragraph{
+    color: white;
+          text-align: center;
+          margin-top: 350px;
+          margin-bottom: 0px;
+          font-size: 50px;
+          padding-bottom: 250px;
+
+}
+/*mission*/
+.mission-style{
+    background-image: url('https://www.kiro7.com/resizer/WLIvmjVg2X7sZELo4A4_D2-UsP4=/1200x675/arc-anglerfish-arc2-prod-cmg.s3.amazonaws.com/public/3UVN34YJ4BBPVJM2XSVCZ24EK4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0px;
+}
+.misson-title{
+    color: white;
+          text-align: center;
+          margin-top: 0px;
+          font-size: 60px;
+          padding-top: 150px;
+}
+.mission-paragraph{
+    color: white;
+    text-align: center;
+    margin-top: 250px;
+    font-size: 20px;
+    padding-bottom: 250px;
+    margin-bottom: 0px;
+}
+/*logo*/
+.logo-style{
+    background-image: url('https://i.pinimg.com/originals/6f/8f/41/6f8f414ed8d4feec44bbbece53edcac8.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 45px;
+  
+}
+.logo-img-style{
+    padding: 150px;
+    margin: 0px;
+    text-align: center;
+    vertical-align:middle;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+/*DANCE STYLE SHEET*/
+
+.full-width{width:100%;float:left}
